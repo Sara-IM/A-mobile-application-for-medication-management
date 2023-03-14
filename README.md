@@ -1,1 +1,2 @@
 # A-mobile-application-for-medication-management
+‘Taafi’ is a mobile application for medication management that supports Arabic language and runs on iOS and Android platforms. The application supports the main functions of drug management such as pill reminder and drug-drug interaction (DDI) checker. This project uses different machine-learning techniques for scene text detection, recognition, and DDI detection.
